@@ -1,2 +1,2 @@
-This is React Course Project from Jhon Smilga
+This is React Course Project from John Smilga
 
